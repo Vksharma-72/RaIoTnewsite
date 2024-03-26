@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+
+.logo {
+    width: 250px;
+}
+
+.header-box {
+    width: 100% ;
+    height: 3cm;
+}
+
+.header-font {
+    font-weight: bold;
+    font-family: "Open Sans ";
+    color: whitesmoke;
+    font-size: auto;
+}
+
+
+#footer-box {
+    width:100% ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between ;
+
+}
